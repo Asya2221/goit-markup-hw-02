@@ -40,6 +40,7 @@ ul {
 
 .header-adresss {
     font-style: normal;
+    /* Убираем курсив */
 }
 
 .header-adresss-link {
