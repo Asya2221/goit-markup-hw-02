@@ -44,7 +44,10 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
+}
+
+.header-menu-item {
+font-style: normal;
 }
 
 .header-menu-link:hover,
@@ -127,11 +130,11 @@ ul {
     text-transform: capitalize;
 }
 
-.team-list {
+.team-list 
+
+.team-item {
     background-color: #FFFFFF;
 }
-
-.team-item {}
 
 .team-image {}
 
